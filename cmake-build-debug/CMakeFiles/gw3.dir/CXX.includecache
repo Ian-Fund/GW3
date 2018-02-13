@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mathbot/CLionProjects/cosc2430/gw3/Node.cpp
+Node.h
+/home/mathbot/CLionProjects/cosc2430/gw3/Node.h
+
+/home/mathbot/CLionProjects/cosc2430/gw3/Node.h
+iostream
+-
+fstream
+-
+istream
+-
+
+/home/mathbot/CLionProjects/cosc2430/gw3/list.cpp
+list.h
+/home/mathbot/CLionProjects/cosc2430/gw3/list.h
+list.h
+/home/mathbot/CLionProjects/cosc2430/gw3/list.h
+
+/home/mathbot/CLionProjects/cosc2430/gw3/list.h
+Node.h
+/home/mathbot/CLionProjects/cosc2430/gw3/Node.h
+
+/home/mathbot/CLionProjects/cosc2430/gw3/main.cpp
+list.h
+/home/mathbot/CLionProjects/cosc2430/gw3/list.h
+
